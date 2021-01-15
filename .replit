@@ -1,0 +1,2 @@
+language = "java10"
+run = "export CLASSPATH=.:./classes/*:./images/*; javac -d . *.java ./classes/*.java; java Main"
